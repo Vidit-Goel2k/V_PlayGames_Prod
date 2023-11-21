@@ -1,5 +1,5 @@
 <?php
 
-header("location:/cwh/login.php");
+header("location:/login.php");
 
 ?>
